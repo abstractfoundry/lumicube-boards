@@ -1,0 +1,10 @@
+References,Value,Quantity,Type,Manufacturer,Manufacturer_Part_Number,THT,Number_of_pads,Can be replaced,Notes,LCSC_part_number,Link
+"C4,C5,C3,C1,C2",4.7uF,5,Capacitor,Samsung,CL05A475MP5NRNC,N,2,N,,C23733,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A475MP5NRNC_C23733.html
+J1,FemaleConn_1x6,1,Connector,Changjiang Connectors,A2005HWR-S-6P-Y,N,6,Y,,,https://www.cjt.com/en/pro_show.php?id=15894
+J2,MaleConn_1x6,1,Connector,Changjiang Connectors,A2005WR-S-6P,N,6,Y,,C917593,https://www.cjt.com/en/pro_show.php?id=15952
+R5,10R,1,Resistor,,,N,2,Y,0402,C25077,
+"R6,R3,R2,R1,R4",10K,5,Resistor,,,N,2,Y,0402,C25744,
+U1,ME6211C33M5G-N,1,IC,Nanjing Micro One Elec,ME6211C33M5G-N,N,3,N,,C82942,https://lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_MICRONE-Nanjing-Micro-One-Elec-ME6211C33M5G-N_C82942.html
+U2,STM32F042F6P6,1,IC,STMicroelectronics,STM32F042F6P6,N,20,N,,C81000,https://lcsc.com/product-detail/ST-Microelectronics_STMicroelectronics_STM32F042F6P6_STM32F042F6P6_C81000.html
+U3,BME280,1,IC,Bosch Sensortec ,BME280,N,8,N,,C92489,https://lcsc.com/product-detail/Humidity-Sensors_Bosch-Sensortec-BME280_C92489.html
+U4,74LVC2G07,1,IC,Texas Instruments,SN74LVC2G07DBVR,N,6,N,,C37708,https://lcsc.com/product-detail/Buffers-Drivers_Texas-Instruments-SN74LVC2G07DBVR_C37708.html

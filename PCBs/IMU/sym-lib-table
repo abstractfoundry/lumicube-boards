@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name AbstractFoundry)(type Legacy)(uri ${KIPRJMOD}/../../../Libraries/AbstractFoundry/AbstractFoundry.lib)(options "")(descr ""))
+)

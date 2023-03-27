@@ -1,0 +1,5 @@
+../Core/CommonLibraries/AFlibrary/Src/debugComponent.c:14:10:readRdpValue	32	static
+../Core/CommonLibraries/AFlibrary/Src/debugComponent.c:21:6:setRdp	32	static
+../Core/CommonLibraries/AFlibrary/Src/debugComponent.c:51:13:setRdpField	8	static
+../Core/CommonLibraries/AFlibrary/Src/debugComponent.c:65:6:initialiseDebug	8	static
+../Core/CommonLibraries/AFlibrary/Src/debugComponent.c:70:6:loopDebug	8	static

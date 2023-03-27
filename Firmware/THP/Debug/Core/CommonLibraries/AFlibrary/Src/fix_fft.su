@@ -1,0 +1,3 @@
+../Core/CommonLibraries/AFlibrary/Src/fix_fft.c:155:9:FIX_MPY	0	static
+../Core/CommonLibraries/AFlibrary/Src/fix_fft.c:172:5:fix_fft	96	static
+../Core/CommonLibraries/AFlibrary/Src/fix_fft.c:287:5:fix_fftr	40	static

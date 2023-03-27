@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name AbstractFoundry)(type KiCad)(uri ${KIPRJMOD}/../../../Libraries/AbstractFoundry/AbstractFoundry.pretty)(options "")(descr ""))
+  (lib (name SamacSys)(type KiCad)(uri /home/sean/AbstractFoundry/main/Alpha/Hardware/Libraries/SamacSys/SamacSys_Parts.pretty)(options "")(descr ""))
+)

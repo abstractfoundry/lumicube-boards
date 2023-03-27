@@ -1,0 +1,11 @@
+../Core/CommonLibraries/libcanard/src/canard_stm32.c:28:13:isFramePriorityHigher	20	static
+../Core/CommonLibraries/libcanard/src/canard_stm32.c:69:17:convertFrameIDCanardToRegister	0	static
+../Core/CommonLibraries/libcanard/src/canard_stm32.c:91:17:convertFrameIDRegisterToCanard	0	static
+../Core/CommonLibraries/libcanard/src/canard_stm32.c:146:13:processErrorStatus	12	static
+../Core/CommonLibraries/libcanard/src/canard_stm32.c:118:13:waitMSRINAKBitStateChange	16	static
+../Core/CommonLibraries/libcanard/src/canard_stm32.c:191:9:canardSTM32Init	16	static
+../Core/CommonLibraries/libcanard/src/canard_stm32.c:305:6:txRequestCompleted	0	static
+../Core/CommonLibraries/libcanard/src/canard_stm32.c:313:9:canardSTM32Transmit	24	static
+../Core/CommonLibraries/libcanard/src/canard_stm32.c:422:9:canardSTM32Receive	24	static
+../Core/CommonLibraries/libcanard/src/canard_stm32.c:484:9:canardSTM32ConfigureAcceptanceFilters	20	static
+../Core/CommonLibraries/libcanard/src/canard_stm32.c:600:18:canardSTM32GetStats	8	static

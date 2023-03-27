@@ -1,0 +1,7 @@
+../Core/CommonLibraries/AFlibrary/Src/imu.c:70:13:BNO055_delay_msec	8	static
+../Core/CommonLibraries/AFlibrary/Src/imu.c:137:15:BNO055_I2C_bus_read	32	static
+../Core/CommonLibraries/AFlibrary/Src/imu.c:131:15:BNO055_I2C_bus_write	32	static
+../Core/CommonLibraries/AFlibrary/Src/imu.c:145:6:readAndProcess	48	static
+../Core/CommonLibraries/AFlibrary/Src/imu.c:187:9:testImu	8	static
+../Core/CommonLibraries/AFlibrary/Src/imu.c:195:6:initialiseImu	32	static
+../Core/CommonLibraries/AFlibrary/Src/imu.c:242:6:loopImu	8	static

@@ -1,0 +1,18 @@
+// General setup
+See Software/Boards/Common/ProjectSetup/NucleoProjectSetup.txt
+
+// Board specific
+Pinout - set PA3,4,6,7 to gpio input
+Tim1 - set clock source to internal clock
+Tim1 - set prescaler to 47 and counter period to 999
+Tim1 - NVIC settings - enabled TIM1 break, update, ... interrupts
+
+
+// No longer applicable
+// Pinout - set PA3,4,6,7 to gpio interrupt EXTI3
+// System Core - GPIO - set PA3,4,6,7 GPIO mode to "External interrupt mode with Rising/Falling edge trigger detection"
+// System Core - NVIC - enable EXTI line 2 and 3 interrupts
+// System Core - NVIC - enable EXTI line 4 to 15 interrupts
+// System Core - NVIC - Code generation - EXTI line 2 and 3 enable call HAL handler
+// System Core - NVIC - Code generation - EXTI line 4 to 15 enable call HAL handler
+

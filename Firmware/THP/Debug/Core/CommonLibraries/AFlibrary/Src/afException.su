@@ -1,0 +1,2 @@
+../Core/CommonLibraries/AFlibrary/Src/afException.c:11:6:softAssertTmp	16	static
+../Core/CommonLibraries/AFlibrary/Src/afException.c:24:6:hardAssertTmp	8	static

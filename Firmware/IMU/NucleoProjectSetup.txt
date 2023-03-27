@@ -1,0 +1,8 @@
+// General setup
+See Software/Boards/Common/ProjectSetup/NucleoProjectSetup.txt
+
+// Board specific
+I2C - set I2C to I2C
+Pinout - set PA4,6 to GPIO output
+Pinout - set PA5,7 to GPIO input
+

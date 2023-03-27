@@ -1,0 +1,15 @@
+References,Value,Quantity,Type,Manufacturer,Manufacturer_Part_Number,THT,Number_of_pads,Can be replaced,Notes,LCSC_part_number,Link
+"C4,C3,C1,C2",4.7uF,4,Capacitor,Samsung,CL05A475MP5NRNC,N,2,N,,C23733,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A475MP5NRNC_C23733.html
+C5,0.1uF,1,Capacitor,Samsung,CL05B104KO5NNNC,N,2,N,,C1525,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.html
+C6,1uF,1,Capacitor,Samsung,CL05A105KA5NQNC,N,2,Y,,C52923,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A105KA5NQNC_C52923.html
+"C8,C9",22pF,2,Capacitor,Samsung,CL05C220JB5NNNC,N,2,Y,,C70464,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05C220JB5NNNC_C70464.html
+J1,FemaleConn_1x6,1,Connector,Changjiang Connectors,A2005HWR-S-6P-Y,N,6,Y,,,https://www.cjt.com/en/pro_show.php?id=15894
+J2,MaleConn_1x6,1,Connector,Changjiang Connectors,A2005WR-S-6P,N,6,Y,,C917593,https://www.cjt.com/en/pro_show.php?id=15952
+R3,10R,1,Resistor,,,N,2,Y,0402,C25077,
+"R4,R1,R7,R2",10K,4,Resistor,,,N,2,Y,0402,C25744,
+"R6,R5",3.3K,2,Resistor,,,N,2,Y,0402,C25890,
+U1,ME6211C33M5G-N,1,IC,Nanjing Micro One Elec,ME6211C33M5G-N,N,3,N,,C82942,https://lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_MICRONE-Nanjing-Micro-One-Elec-ME6211C33M5G-N_C82942.html
+U2,STM32F042F6P6,1,IC,STMicroelectronics,STM32F042F6P6,N,20,N,,C81000,https://lcsc.com/product-detail/ST-Microelectronics_STMicroelectronics_STM32F042F6P6_STM32F042F6P6_C81000.html
+U3,74LVC2G07,1,IC,Texas Instruments,SN74LVC2G07DBVR,N,6,N,,C37708,https://lcsc.com/product-detail/Buffers-Drivers_Texas-Instruments-SN74LVC2G07DBVR_C37708.html
+U4,BNO055,1,IC,Bosch,BNO055,N,28,N,,C93216,https://lcsc.com/product-detail/Sensors_Bosch-Sensortec_BNO055_Bosch-Sensortec-BNO055_C93216.html
+Y1,Crystal_32.768K,1,Crystal,JGHC,SMD31327681252090,N,2,N,,C390740,https://lcsc.com/product-detail/SMD-Crystal-Resonators_JGHC-SMD31327681252090_C390740.html

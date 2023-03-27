@@ -1,0 +1,6 @@
+../Core/CommonLibraries/AFlibrary/Src/thp.c:44:6:delay_us	8	static
+../Core/CommonLibraries/AFlibrary/Src/thp.c:48:8:user_i2c_read	24	static
+../Core/CommonLibraries/AFlibrary/Src/thp.c:54:8:user_i2c_write	24	static
+../Core/CommonLibraries/AFlibrary/Src/thp.c:60:9:testThp	0	static
+../Core/CommonLibraries/AFlibrary/Src/thp.c:65:6:initialiseThp	16	static
+../Core/CommonLibraries/AFlibrary/Src/thp.c:95:6:loopThp	32	static

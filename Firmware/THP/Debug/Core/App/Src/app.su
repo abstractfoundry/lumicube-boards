@@ -1,0 +1,8 @@
+../Core/App/Src/app.c:19:8:getBoardName	0	static
+../Core/App/Src/app.c:22:8:getBoardNodeName	0	static
+../Core/App/Src/app.c:26:6:HAL_TIM_PeriodElapsedCallback	8	static
+../Core/App/Src/app.c:40:6:sleepFor1Sec	8	static
+../Core/App/Src/app.c:54:6:setupCanHw	8	static
+../Core/App/Src/app.c:80:9:boardTest	8	static
+../Core/App/Src/app.c:84:6:setup	0	static
+../Core/App/Src/app.c:87:6:loop	112	static
